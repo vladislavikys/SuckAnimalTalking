@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "a0426bd6852b23b23920d042f5a4cb9ee7a482a107a909d2a1f4f2ef515e9f59"
+build_start_time: [1704792845, 421160000]
+build_end_time: [1704792845, 424066000]
+inputs:
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphoneos/SuckAnimalTalking.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1704792845, 382948583]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalking/AppDelegate.swift": !dirty [1704792839, 614278583]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalking/SceneDelegate.swift": !dirty [1704792839, 619681833]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalking/ViewController.swift": !dirty [1704792839, 621826041]

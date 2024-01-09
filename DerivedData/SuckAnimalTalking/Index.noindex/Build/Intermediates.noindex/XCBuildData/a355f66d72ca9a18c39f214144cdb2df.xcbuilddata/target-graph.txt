@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking' (no dependencies)
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking' (no dependencies)
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalking' in project 'SuckAnimalTalking' (no dependencies)
+Target 'SuckAnimalTalking' in project 'SuckAnimalTalking' (no dependencies)
