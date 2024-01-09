@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C5C2BE435F2CABADB050C09D20BD5F91B964139",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C5C2BE435F2CABADB050C09D20BD5F91B964139" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "67EB9C08-5A32-4339-9F3F-3CC7BB228E4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C5C2BE435F2CABADB050C09D20BD5F91B964139" : "SuckAnimalTalking\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SuckAnimalTalking",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SuckAnimalTalking.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vladislavikys\/SuckAnimalTalking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C5C2BE435F2CABADB050C09D20BD5F91B964139"
+    }
+  ]
+}

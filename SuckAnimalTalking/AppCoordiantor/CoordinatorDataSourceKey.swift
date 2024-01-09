@@ -1,8 +1,11 @@
-//
-//  CoordinatorDataSourceKey.swift
-//  SuckAnimalTalking
-//
-//  Created by Влад on 9.01.24.
-//
-
 import Foundation
+import UIKit
+
+enum CoordinatorDataSourceKey:Hashable{
+    case tabbarControllers
+    case petsType
+    case voiceIdentifyType
+    case translationModel
+    case translationString
+    case pet
+}

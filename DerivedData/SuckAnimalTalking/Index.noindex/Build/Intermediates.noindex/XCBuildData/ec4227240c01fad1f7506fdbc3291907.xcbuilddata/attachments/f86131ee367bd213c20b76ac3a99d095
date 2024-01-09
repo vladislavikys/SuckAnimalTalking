@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphonesimulator/SuckAnimalTalkingTests.build/Objects-normal/arm64/SuckAnimalTalkingTests-master.d",
+    "diagnostics" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphonesimulator/SuckAnimalTalkingTests.build/Objects-normal/arm64/SuckAnimalTalkingTests-master.dia",
+    "emit-module-dependencies" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphonesimulator/SuckAnimalTalkingTests.build/Objects-normal/arm64/SuckAnimalTalkingTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphonesimulator/SuckAnimalTalkingTests.build/Objects-normal/arm64/SuckAnimalTalkingTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/SuckAnimalTalking.build/Debug-iphonesimulator/SuckAnimalTalkingTests.build/Objects-normal/arm64/SuckAnimalTalkingTests-master.swiftdeps"
+  },
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalkingTests/SuckAnimalTalkingTests.swift" : {
+
+  }
+}

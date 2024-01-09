@@ -1,8 +1,11 @@
-//
-//  TestViewModel.swift
-//  SuckAnimalTalking
-//
-//  Created by Влад on 9.01.24.
-//
-
 import Foundation
+
+
+
+final class TestViewModel{
+    var coordinator:TestCoordinatorDelegate
+    init(coordinator: TestCoordinatorDelegate) {
+        self.coordinator = coordinator
+    }
+    
+}

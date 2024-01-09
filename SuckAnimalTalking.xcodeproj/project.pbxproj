@@ -10,12 +10,16 @@
 		F547650C2B4D4A8700A3AEC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */; };
 		F547650E2B4D4A8700A3AEC4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */; };
 		F54765102B4D4A8700A3AEC4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650F2B4D4A8700A3AEC4 /* ViewController.swift */; };
-		F54765132B4D4A8700A3AEC4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F54765112B4D4A8700A3AEC4 /* Main.storyboard */; };
 		F54765152B4D4A8800A3AEC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F54765142B4D4A8800A3AEC4 /* Assets.xcassets */; };
 		F54765182B4D4A8800A3AEC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F54765162B4D4A8800A3AEC4 /* LaunchScreen.storyboard */; };
 		F54765232B4D4A8900A3AEC4 /* SuckAnimalTalkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765222B4D4A8900A3AEC4 /* SuckAnimalTalkingTests.swift */; };
 		F547652D2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547652C2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests.swift */; };
 		F547652F2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547652E2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITestsLaunchTests.swift */; };
+		F547653E2B4D4C7D00A3AEC4 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547653D2B4D4C7D00A3AEC4 /* AppCoordinator.swift */; };
+		F54765402B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547653F2B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift */; };
+		F54765482B4D503500A3AEC4 /* TestCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765472B4D503500A3AEC4 /* TestCoordinator.swift */; };
+		F547654A2B4D50B400A3AEC4 /* TestViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765492B4D50B400A3AEC4 /* TestViewModel.swift */; };
+		F547654C2B4D514000A3AEC4 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547654B2B4D514000A3AEC4 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +44,6 @@
 		F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F547650F2B4D4A8700A3AEC4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F54765122B4D4A8700A3AEC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F54765142B4D4A8800A3AEC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F54765172B4D4A8800A3AEC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F54765192B4D4A8800A3AEC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +52,11 @@
 		F54765282B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuckAnimalTalkingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F547652C2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuckAnimalTalkingUITests.swift; sourceTree = "<group>"; };
 		F547652E2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuckAnimalTalkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F547653D2B4D4C7D00A3AEC4 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		F547653F2B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorDataSourceKey.swift; sourceTree = "<group>"; };
+		F54765472B4D503500A3AEC4 /* TestCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCoordinator.swift; sourceTree = "<group>"; };
+		F54765492B4D50B400A3AEC4 /* TestViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewModel.swift; sourceTree = "<group>"; };
+		F547654B2B4D514000A3AEC4 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +87,7 @@
 		F54764FF2B4D4A8700A3AEC4 = {
 			isa = PBXGroup;
 			children = (
+				F54765412B4D4FD000A3AEC4 /* Screens */,
 				F547650A2B4D4A8700A3AEC4 /* SuckAnimalTalking */,
 				F54765212B4D4A8900A3AEC4 /* SuckAnimalTalkingTests */,
 				F547652B2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests */,
@@ -99,13 +108,9 @@
 		F547650A2B4D4A8700A3AEC4 /* SuckAnimalTalking */ = {
 			isa = PBXGroup;
 			children = (
-				F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */,
-				F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */,
 				F547650F2B4D4A8700A3AEC4 /* ViewController.swift */,
-				F54765112B4D4A8700A3AEC4 /* Main.storyboard */,
-				F54765142B4D4A8800A3AEC4 /* Assets.xcassets */,
-				F54765162B4D4A8800A3AEC4 /* LaunchScreen.storyboard */,
-				F54765192B4D4A8800A3AEC4 /* Info.plist */,
+				F547653B2B4D4B5C00A3AEC4 /* Application */,
+				F547653C2B4D4C6100A3AEC4 /* AppCoordiantor */,
 			);
 			path = SuckAnimalTalking;
 			sourceTree = "<group>";
@@ -125,6 +130,77 @@
 				F547652E2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITestsLaunchTests.swift */,
 			);
 			path = SuckAnimalTalkingUITests;
+			sourceTree = "<group>";
+		};
+		F547653B2B4D4B5C00A3AEC4 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */,
+				F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */,
+				F54765142B4D4A8800A3AEC4 /* Assets.xcassets */,
+				F54765162B4D4A8800A3AEC4 /* LaunchScreen.storyboard */,
+				F54765192B4D4A8800A3AEC4 /* Info.plist */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		F547653C2B4D4C6100A3AEC4 /* AppCoordiantor */ = {
+			isa = PBXGroup;
+			children = (
+				F547653D2B4D4C7D00A3AEC4 /* AppCoordinator.swift */,
+				F547653F2B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift */,
+			);
+			path = AppCoordiantor;
+			sourceTree = "<group>";
+		};
+		F54765412B4D4FD000A3AEC4 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				F54765422B4D4FD900A3AEC4 /* Test */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		F54765422B4D4FD900A3AEC4 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				F54765462B4D502300A3AEC4 /* Model */,
+				F54765452B4D4FF800A3AEC4 /* Coordinator */,
+				F54765442B4D4FF100A3AEC4 /* ViewModel */,
+				F54765432B4D4FEE00A3AEC4 /* View */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		F54765432B4D4FEE00A3AEC4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F547654B2B4D514000A3AEC4 /* TestViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F54765442B4D4FF100A3AEC4 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				F54765492B4D50B400A3AEC4 /* TestViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		F54765452B4D4FF800A3AEC4 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+				F54765472B4D503500A3AEC4 /* TestCoordinator.swift */,
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		F54765462B4D502300A3AEC4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,7 +309,6 @@
 			files = (
 				F54765182B4D4A8800A3AEC4 /* LaunchScreen.storyboard in Resources */,
 				F54765152B4D4A8800A3AEC4 /* Assets.xcassets in Resources */,
-				F54765132B4D4A8700A3AEC4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +333,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F547653E2B4D4C7D00A3AEC4 /* AppCoordinator.swift in Sources */,
 				F54765102B4D4A8700A3AEC4 /* ViewController.swift in Sources */,
+				F547654C2B4D514000A3AEC4 /* TestViewController.swift in Sources */,
 				F547650C2B4D4A8700A3AEC4 /* AppDelegate.swift in Sources */,
+				F54765402B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift in Sources */,
+				F54765482B4D503500A3AEC4 /* TestCoordinator.swift in Sources */,
+				F547654A2B4D50B400A3AEC4 /* TestViewModel.swift in Sources */,
 				F547650E2B4D4A8700A3AEC4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,14 +377,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F54765112B4D4A8700A3AEC4 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F54765122B4D4A8700A3AEC4 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F54765162B4D4A8800A3AEC4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -447,7 +519,6 @@
 				INFOPLIST_FILE = SuckAnimalTalking/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -475,7 +546,6 @@
 				INFOPLIST_FILE = SuckAnimalTalking/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

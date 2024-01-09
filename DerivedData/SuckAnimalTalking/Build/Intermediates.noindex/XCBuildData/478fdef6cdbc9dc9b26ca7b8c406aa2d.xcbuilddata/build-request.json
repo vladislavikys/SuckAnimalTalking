@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2dbfe214260638bb90a5e267236c8f2e91b23c4b4f6dd3e419ef0a8aab724a43"
+    }
+  ],
+  "containerPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalking.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Products",
+      "derivedDataPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "89BB3FEA-F0B9-4ACB-A045-126AC31535B2",
+          "TARGET_DEVICE_MODEL" : "iPhone14,6",
+          "TARGET_DEVICE_OS_VERSION" : "17.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
