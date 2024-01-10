@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+➜ Implicit dependency on target 'Pods-SuckAnimalTalking' in project 'Pods' via file 'Pods_SuckAnimalTalking.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'BetterSegmentedControl' in project 'Pods' via options '-framework BetterSegmentedControl' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-SuckAnimalTalking' in project 'Pods'
+➜ Explicit dependency on target 'BetterSegmentedControl' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods' (no dependencies)
+Target 'BetterSegmentedControl' in project 'Pods' (no dependencies)

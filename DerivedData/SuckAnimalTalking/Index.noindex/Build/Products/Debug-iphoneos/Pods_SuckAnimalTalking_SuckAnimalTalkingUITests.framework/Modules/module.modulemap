@@ -1,0 +1,6 @@
+framework module Pods_SuckAnimalTalking_SuckAnimalTalkingUITests {
+  umbrella header "Pods-SuckAnimalTalking-SuckAnimalTalkingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

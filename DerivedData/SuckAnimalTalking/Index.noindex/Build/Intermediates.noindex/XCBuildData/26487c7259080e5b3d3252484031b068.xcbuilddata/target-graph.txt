@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'SuckAnimalTalking' in project 'SuckAnimalTalking' (no dependencies)
-Target 'SuckAnimalTalking' in project 'SuckAnimalTalking' (no dependencies)

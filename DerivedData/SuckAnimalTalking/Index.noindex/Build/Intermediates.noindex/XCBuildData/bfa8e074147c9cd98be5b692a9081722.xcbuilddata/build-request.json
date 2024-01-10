@@ -1,0 +1,74 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4252752383d0fc03c8df2afb6b13cf3125"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd426bbcf423c9209aeaed96d9f1c5161d6e"
+    },
+    {
+      "guid" : "2dbfe214260638bb90a5e267236c8f2e91b23c4b4f6dd3e419ef0a8aab724a43"
+    },
+    {
+      "guid" : "2dbfe214260638bb90a5e267236c8f2e5b17cc50b9ce1661caeab810ea9f2850"
+    },
+    {
+      "guid" : "2dbfe214260638bb90a5e267236c8f2e7275d93d40dc9b81ed802df351b01dd5"
+    }
+  ],
+  "containerPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/SuckAnimalTalking.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Products",
+      "pchPath" : "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

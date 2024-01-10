@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "60948a76b62700a512bff42e0464d18d880acbc191525460d9989a05a51dd24f"
+build_start_time: [1704824918, 128464000]
+build_end_time: [1704824918, 142773000]
+inputs:
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+IBDesignable.swift"
+  : !dirty [1704804672, 224552624]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+IndicatorView.swift"
+  : !dirty [1704806098, 994681749]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+Options.swift"
+  : !dirty [1704804672, 226178999]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+PredefinedStyles.swift"
+  : !dirty [1704808162, 172885583]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+UIPointerInteractionDelegate.swift"
+  : !dirty [1704804672, 224236499]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl.swift"
+  : !dirty [1704806477, 294292333]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Helpers/UIColor+Helpers.swift"
+  : !dirty [1704804672, 225045416]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Helpers/UIView+Helpers.swift"
+  : !dirty [1704804672, 224868958]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/BetterSegmentedControlSegment.swift"
+  : !dirty [1704804672, 225708208]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/IconSegment.swift": !dirty [1704804672, 225535374]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/LabelSegment.swift": !dirty [1704804672, 225996666]

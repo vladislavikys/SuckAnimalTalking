@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SuckAnimalTalking.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:SuckAnimalTalkingTests"
+      name = "SuckAnimalTalkingTests">
+      <FileRef
+         location = "group:SuckAnimalTalkingTests/SuckAnimalTalkingTests.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:SuckAnimalTalkingUITests"
+      name = "SuckAnimalTalkingUITests">
+      <FileRef
+         location = "group:SuckAnimalTalkingUITests/SuckAnimalTalkingUITests.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SuckAnimalTalkingUITests/SuckAnimalTalkingUITestsLaunchTests.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:"
+      name = "Products">
+      <FileRef
+         location = "build:SuckAnimalTalking.app"
+         assignedFileDataType = "com.apple.application-bundle">
+      </FileRef>
+      <FileRef
+         location = "build:SuckAnimalTalkingTests.xctest"
+         assignedFileDataType = "com.apple.xcode.cfbundle">
+      </FileRef>
+      <FileRef
+         location = "build:SuckAnimalTalkingUITests.xctest"
+         assignedFileDataType = "com.apple.xcode.cfbundle">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

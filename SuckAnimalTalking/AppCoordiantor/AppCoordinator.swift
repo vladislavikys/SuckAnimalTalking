@@ -9,10 +9,12 @@ protocol Coordinator{
 }
 extension Coordinator{
     func back(){
-        self.navigationController.popViewController(animated: true)   // используется для возвращения на предыдущий экран в стеке контроллеров.
+        self.navigationController.popViewController(animated: true)   
+        // используется для возвращения на предыдущий экран в стеке контроллеров.
     }
     func backToRoot(){
-        self.navigationController.popToRootViewController(animated: true)  //  используется для возвращения на корневой экран в стеке контроллеров
+        self.navigationController.popToRootViewController(animated: true)  
+        //  используется для возвращения на корневой экран в стеке контроллеров
     }
 }
 

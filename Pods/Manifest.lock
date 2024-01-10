@@ -1,0 +1,20 @@
+PODS:
+  - BetterSegmentedControl (2.0.1)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - BetterSegmentedControl
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - BetterSegmentedControl
+    - SnapKit
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 4cef7e8dd18b90955e750c993a84ea2ecd6e4bc3
+
+COCOAPODS: 1.14.3

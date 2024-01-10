@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "698be54db90c8cfc6d5eef9154ef646a52038dc921518bbe11da6d21c7d12cdf"
+build_start_time: [1704890011, 185735000]
+build_end_time: [1704890012, 81896000]
+inputs:
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+IBDesignable.swift"
+  : [1704804672, 224552624]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+IndicatorView.swift"
+  : [1704806098, 994681749]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+Options.swift"
+  : [1704804672, 226178999]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+PredefinedStyles.swift"
+  : [1704808162, 172885583]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl+UIPointerInteractionDelegate.swift"
+  : [1704804672, 224236499]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/BetterSegmentedControl.swift"
+  : [1704806477, 294292333]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Helpers/UIColor+Helpers.swift"
+  : [1704804672, 225045416]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Helpers/UIView+Helpers.swift"
+  : [1704804672, 224868958]
+  ? "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/BetterSegmentedControlSegment.swift"
+  : [1704804672, 225708208]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/IconSegment.swift": [1704804672, 225535374]
+  "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/BetterSegmentedControl/Pod/Classes/Segments/LabelSegment.swift": [1704804672, 225996666]

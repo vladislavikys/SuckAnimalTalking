@@ -1,0 +1,34 @@
+Target dependency graph (17 targets)
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking' (no dependencies)
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingUITests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking' (no dependencies)
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalkingTests' in project 'SuckAnimalTalking'
+➜ Explicit dependency on target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+Target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+➜ Implicit dependency on target 'Pods-SuckAnimalTalking' in project 'Pods' via file 'Pods_SuckAnimalTalking.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'BetterSegmentedControl' in project 'Pods' via options '-framework BetterSegmentedControl' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'SuckAnimalTalking' in project 'SuckAnimalTalking'
+➜ Implicit dependency on target 'Pods-SuckAnimalTalking' in project 'Pods' via file 'Pods_SuckAnimalTalking.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'BetterSegmentedControl' in project 'Pods' via options '-framework BetterSegmentedControl' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-SuckAnimalTalking' in project 'Pods'
+➜ Explicit dependency on target 'BetterSegmentedControl' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'BetterSegmentedControl' in project 'Pods' (no dependencies)
+Target 'Pods-SuckAnimalTalking' in project 'Pods'
+➜ Explicit dependency on target 'BetterSegmentedControl' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'BetterSegmentedControl' in project 'Pods' (no dependencies)
+Target 'Pods-SuckAnimalTalking' in project 'Pods'
+➜ Explicit dependency on target 'BetterSegmentedControl' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'BetterSegmentedControl' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)

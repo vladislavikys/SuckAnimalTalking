@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Products/Debug-maccatalyst/BetterSegmentedControl/BetterSegmentedControl.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/BetterSegmentedControl.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Products/Debug-maccatalyst/BetterSegmentedControl/BetterSegmentedControl.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "BetterSegmentedControl-Swift.h",
+      'external-contents': "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/BetterSegmentedControl.build/unextended-interface-header.h",
+    }]
+    }]
+}

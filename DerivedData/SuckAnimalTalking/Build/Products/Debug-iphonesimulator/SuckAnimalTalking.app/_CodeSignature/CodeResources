@@ -16,6 +16,30 @@
 		<data>
 		ZVgM1+KwZcZnwhgaI0F7Bt1ba2c=
 		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/BetterSegmentedControl</key>
+		<data>
+		SJtgwcBpVH/WGceokMoWQ7ab0+A=
+		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/Info.plist</key>
+		<data>
+		Sa2IfObsqmBiY6tdsToye/R2sfw=
+		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/_CodeSignature/CodeResources</key>
+		<data>
+		fxtSOdZwMhVnRnoga01vYxMOdJ8=
+		</data>
+		<key>Frameworks/SnapKit.framework/Info.plist</key>
+		<data>
+		KtJvpIQF8A/tSZdcddt2fvrhr50=
+		</data>
+		<key>Frameworks/SnapKit.framework/SnapKit</key>
+		<data>
+		R5UCGG4FV7XMypLj/ENpl+Cbo1w=
+		</data>
+		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
+		<data>
+		2cLxMS7Gi0k6G7NaZeIlu+Akncg=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		tTmNOcegcdtg9RX6ZxAOV9W8bLQ=
@@ -46,6 +70,48 @@
 			<key>hash2</key>
 			<data>
 			VPNjf2cf66XxnoLsT0p/tEi7PPwPsYDwiapXH8jwU+I=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/BetterSegmentedControl</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RGNoS6D3dX4RGZPDH5EUdK7kM8Cww04FqctUg7Lhnlc=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ohb5/s0BHjrBNCeDAnu98qlYOVCLeJyfa+OCAS+5u6w=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lEccNr+uryT/bJ+zKFcdvgaYDUESt2jDwc6tQFMEcOs=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NNlTApzgcxSO3kl1EVo2wBswQUFiZpPTtW37JZb7PV0=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/SnapKit</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+iASuiBVqVTdnxDVg4FJPHNV4pF9Jq8+ytuJ9+Er2uk=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q4wNEckTXSNHd+at63G2o/A2woeZJrDSeJNtcfc9gZA=
 			</data>
 		</dict>
 	</dict>

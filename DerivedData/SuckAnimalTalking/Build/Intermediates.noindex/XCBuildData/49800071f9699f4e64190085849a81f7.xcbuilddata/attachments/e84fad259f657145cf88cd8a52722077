@@ -1,0 +1,10 @@
+framework module BetterSegmentedControl {
+  umbrella header "BetterSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BetterSegmentedControl.__Swift {
+  exclude header "BetterSegmentedControl-Swift.h"
+}

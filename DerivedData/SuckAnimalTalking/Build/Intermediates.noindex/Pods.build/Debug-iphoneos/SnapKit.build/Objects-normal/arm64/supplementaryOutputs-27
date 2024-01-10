@@ -1,0 +1,30 @@
+"/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/SnapKit/Sources/Constraint.swift":
+  swift-dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.swiftdeps"
+  dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.d"
+  diagnostics: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.dia"
+  const-values: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.swiftconstvalues"
+  object: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.o"
+"/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/SnapKit/Sources/ConstraintAttributes.swift":
+  object: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o"
+  dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.d"
+  swift-dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftdeps"
+  const-values: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftconstvalues"
+  diagnostics: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.dia"
+"/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/SnapKit/Sources/ConstraintConstantTarget.swift":
+  const-values: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftconstvalues"
+  object: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o"
+  swift-dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftdeps"
+  diagnostics: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.dia"
+  dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.d"
+"/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/SnapKit/Sources/ConstraintDescription.swift":
+  dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.d"
+  const-values: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.swiftconstvalues"
+  swift-dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.swiftdeps"
+  object: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.o"
+  diagnostics: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.dia"
+"/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/Pods/SnapKit/Sources/ConstraintConfig.swift":
+  swift-dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftdeps"
+  const-values: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftconstvalues"
+  dependencies: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.d"
+  diagnostics: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.dia"
+  object: "/Users/vlad/Desktop/swift project all/2024/SuckAnimalTalking/DerivedData/SuckAnimalTalking/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o"

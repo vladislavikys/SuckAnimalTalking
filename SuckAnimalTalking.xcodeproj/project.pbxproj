@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88A1DDEFDC513217562F20FF /* Pods_SuckAnimalTalking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B77C362DE83EDFEC45EF04 /* Pods_SuckAnimalTalking.framework */; };
 		F547650C2B4D4A8700A3AEC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */; };
 		F547650E2B4D4A8700A3AEC4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */; };
 		F54765102B4D4A8700A3AEC4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547650F2B4D4A8700A3AEC4 /* ViewController.swift */; };
@@ -20,6 +21,20 @@
 		F54765482B4D503500A3AEC4 /* TestCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765472B4D503500A3AEC4 /* TestCoordinator.swift */; };
 		F547654A2B4D50B400A3AEC4 /* TestViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765492B4D50B400A3AEC4 /* TestViewModel.swift */; };
 		F547654C2B4D514000A3AEC4 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547654B2B4D514000A3AEC4 /* TestViewController.swift */; };
+		F547654F2B4D5FC600A3AEC4 /* UISwitcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547654E2B4D5FC600A3AEC4 /* UISwitcherView.swift */; };
+		F54765512B4DC87600A3AEC4 /* TestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765502B4DC87600A3AEC4 /* TestModel.swift */; };
+		F54765592B4EB05D00A3AEC4 /* UIBaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765582B4EB05D00A3AEC4 /* UIBaseView.swift */; };
+		F547655B2B4EB08300A3AEC4 /* UIBaseCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547655A2B4EB08300A3AEC4 /* UIBaseCollectionViewCell.swift */; };
+		F547655D2B4EB0AC00A3AEC4 /* UIBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547655C2B4EB0AC00A3AEC4 /* UIBaseViewController.swift */; };
+		F54765602B4EB19C00A3AEC4 /* UIViewAndGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547655F2B4EB19C00A3AEC4 /* UIViewAndGradient.swift */; };
+		F54765622B4EB47E00A3AEC4 /* LocalizableHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765612B4EB47E00A3AEC4 /* LocalizableHelper.swift */; };
+		F54765652B4EB56C00A3AEC4 /* MyViewButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765642B4EB56C00A3AEC4 /* MyViewButton.swift */; };
+		F54765672B4EB5A700A3AEC4 /* UIGlobalButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765662B4EB5A700A3AEC4 /* UIGlobalButton.swift */; };
+		F54765692B4EB77900A3AEC4 /* TestCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765682B4EB77900A3AEC4 /* TestCollectionView.swift */; };
+		F547656B2B4EB7A400A3AEC4 /* DeviceSafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547656A2B4EB7A400A3AEC4 /* DeviceSafeArea.swift */; };
+		F547656E2B4EB85C00A3AEC4 /* TestCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547656D2B4EB85C00A3AEC4 /* TestCollectionCell.swift */; };
+		F54765702B4EC54500A3AEC4 /* UIViewAndShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F547656F2B4EC54500A3AEC4 /* UIViewAndShadow.swift */; };
+		F54765722B4EC5CA00A3AEC4 /* UIcollectionViewAndCellAndCellID.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54765712B4EC5CA00A3AEC4 /* UIcollectionViewAndCellAndCellID.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +55,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		093977B154FA8B0766219E20 /* Pods-SuckAnimalTalking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuckAnimalTalking.release.xcconfig"; path = "Target Support Files/Pods-SuckAnimalTalking/Pods-SuckAnimalTalking.release.xcconfig"; sourceTree = "<group>"; };
+		C3B77C362DE83EDFEC45EF04 /* Pods_SuckAnimalTalking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuckAnimalTalking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBFC330AED1B7A1A838FCA03 /* Pods-SuckAnimalTalking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuckAnimalTalking.debug.xcconfig"; path = "Target Support Files/Pods-SuckAnimalTalking/Pods-SuckAnimalTalking.debug.xcconfig"; sourceTree = "<group>"; };
 		F54765082B4D4A8700A3AEC4 /* SuckAnimalTalking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuckAnimalTalking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F547650B2B4D4A8700A3AEC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F547650D2B4D4A8700A3AEC4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +75,20 @@
 		F54765472B4D503500A3AEC4 /* TestCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCoordinator.swift; sourceTree = "<group>"; };
 		F54765492B4D50B400A3AEC4 /* TestViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewModel.swift; sourceTree = "<group>"; };
 		F547654B2B4D514000A3AEC4 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		F547654E2B4D5FC600A3AEC4 /* UISwitcherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISwitcherView.swift; sourceTree = "<group>"; };
+		F54765502B4DC87600A3AEC4 /* TestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestModel.swift; sourceTree = "<group>"; };
+		F54765582B4EB05D00A3AEC4 /* UIBaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBaseView.swift; sourceTree = "<group>"; };
+		F547655A2B4EB08300A3AEC4 /* UIBaseCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBaseCollectionViewCell.swift; sourceTree = "<group>"; };
+		F547655C2B4EB0AC00A3AEC4 /* UIBaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBaseViewController.swift; sourceTree = "<group>"; };
+		F547655F2B4EB19C00A3AEC4 /* UIViewAndGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewAndGradient.swift; sourceTree = "<group>"; };
+		F54765612B4EB47E00A3AEC4 /* LocalizableHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizableHelper.swift; sourceTree = "<group>"; };
+		F54765642B4EB56C00A3AEC4 /* MyViewButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewButton.swift; sourceTree = "<group>"; };
+		F54765662B4EB5A700A3AEC4 /* UIGlobalButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIGlobalButton.swift; sourceTree = "<group>"; };
+		F54765682B4EB77900A3AEC4 /* TestCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCollectionView.swift; sourceTree = "<group>"; };
+		F547656A2B4EB7A400A3AEC4 /* DeviceSafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceSafeArea.swift; sourceTree = "<group>"; };
+		F547656D2B4EB85C00A3AEC4 /* TestCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCollectionCell.swift; sourceTree = "<group>"; };
+		F547656F2B4EC54500A3AEC4 /* UIViewAndShadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewAndShadow.swift; sourceTree = "<group>"; };
+		F54765712B4EC5CA00A3AEC4 /* UIcollectionViewAndCellAndCellID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIcollectionViewAndCellAndCellID.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88A1DDEFDC513217562F20FF /* Pods_SuckAnimalTalking.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,14 +117,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC1D615E4277EC4B597F4889 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C3B77C362DE83EDFEC45EF04 /* Pods_SuckAnimalTalking.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C2631F721F4E4FE96421DFDB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC330AED1B7A1A838FCA03 /* Pods-SuckAnimalTalking.debug.xcconfig */,
+				093977B154FA8B0766219E20 /* Pods-SuckAnimalTalking.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		F54764FF2B4D4A8700A3AEC4 = {
 			isa = PBXGroup;
 			children = (
-				F54765412B4D4FD000A3AEC4 /* Screens */,
+				F547655E2B4EB18300A3AEC4 /* Helpers */,
+				F547654D2B4D5FA800A3AEC4 /* GlobalViews */,
 				F547650A2B4D4A8700A3AEC4 /* SuckAnimalTalking */,
 				F54765212B4D4A8900A3AEC4 /* SuckAnimalTalkingTests */,
 				F547652B2B4D4A8900A3AEC4 /* SuckAnimalTalkingUITests */,
 				F54765092B4D4A8700A3AEC4 /* Products */,
+				F54765412B4D4FD000A3AEC4 /* Screens */,
+				C2631F721F4E4FE96421DFDB /* Pods */,
+				AC1D615E4277EC4B597F4889 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,6 +164,7 @@
 			children = (
 				F547650F2B4D4A8700A3AEC4 /* ViewController.swift */,
 				F547653B2B4D4B5C00A3AEC4 /* Application */,
+				F54765542B4EAFCA00A3AEC4 /* GlobalViews */,
 				F547653C2B4D4C6100A3AEC4 /* AppCoordiantor */,
 			);
 			path = SuckAnimalTalking;
@@ -156,6 +211,7 @@
 		F54765412B4D4FD000A3AEC4 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				F54765552B4EB02600A3AEC4 /* Base */,
 				F54765422B4D4FD900A3AEC4 /* Test */,
 			);
 			path = Screens;
@@ -175,7 +231,7 @@
 		F54765432B4D4FEE00A3AEC4 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				F547654B2B4D514000A3AEC4 /* TestViewController.swift */,
+				F54765522B4DC8BF00A3AEC4 /* Views */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -199,8 +255,98 @@
 		F54765462B4D502300A3AEC4 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F54765502B4DC87600A3AEC4 /* TestModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		F547654D2B4D5FA800A3AEC4 /* GlobalViews */ = {
+			isa = PBXGroup;
+			children = (
+				F547654E2B4D5FC600A3AEC4 /* UISwitcherView.swift */,
+				F54765662B4EB5A700A3AEC4 /* UIGlobalButton.swift */,
+			);
+			path = GlobalViews;
+			sourceTree = "<group>";
+		};
+		F54765522B4DC8BF00A3AEC4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F547654B2B4D514000A3AEC4 /* TestViewController.swift */,
+				F54765632B4EB53700A3AEC4 /* MyViewButton */,
+				F54765532B4DC8CE00A3AEC4 /* CollectionView */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F54765532B4DC8CE00A3AEC4 /* CollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				F54765682B4EB77900A3AEC4 /* TestCollectionView.swift */,
+				F547656C2B4EB83800A3AEC4 /* Cell */,
+			);
+			path = CollectionView;
+			sourceTree = "<group>";
+		};
+		F54765542B4EAFCA00A3AEC4 /* GlobalViews */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = GlobalViews;
+			sourceTree = "<group>";
+		};
+		F54765552B4EB02600A3AEC4 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				F54765572B4EB04100A3AEC4 /* Controller */,
+				F54765562B4EB03900A3AEC4 /* Views */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		F54765562B4EB03900A3AEC4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F54765582B4EB05D00A3AEC4 /* UIBaseView.swift */,
+				F547655A2B4EB08300A3AEC4 /* UIBaseCollectionViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F54765572B4EB04100A3AEC4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F547655C2B4EB0AC00A3AEC4 /* UIBaseViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		F547655E2B4EB18300A3AEC4 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				F547655F2B4EB19C00A3AEC4 /* UIViewAndGradient.swift */,
+				F54765612B4EB47E00A3AEC4 /* LocalizableHelper.swift */,
+				F547656A2B4EB7A400A3AEC4 /* DeviceSafeArea.swift */,
+				F547656F2B4EC54500A3AEC4 /* UIViewAndShadow.swift */,
+				F54765712B4EC5CA00A3AEC4 /* UIcollectionViewAndCellAndCellID.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		F54765632B4EB53700A3AEC4 /* MyViewButton */ = {
+			isa = PBXGroup;
+			children = (
+				F54765642B4EB56C00A3AEC4 /* MyViewButton.swift */,
+			);
+			path = MyViewButton;
+			sourceTree = "<group>";
+		};
+		F547656C2B4EB83800A3AEC4 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				F547656D2B4EB85C00A3AEC4 /* TestCollectionCell.swift */,
+			);
+			path = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,9 +356,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F54765322B4D4A8900A3AEC4 /* Build configuration list for PBXNativeTarget "SuckAnimalTalking" */;
 			buildPhases = (
+				106BCF0BB49D5A4F7FA36740 /* [CP] Check Pods Manifest.lock */,
 				F54765042B4D4A8700A3AEC4 /* Sources */,
 				F54765052B4D4A8700A3AEC4 /* Frameworks */,
 				F54765062B4D4A8700A3AEC4 /* Resources */,
+				9E245CAC757434E7661C2D5F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -328,18 +476,74 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		106BCF0BB49D5A4F7FA36740 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SuckAnimalTalking-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9E245CAC757434E7661C2D5F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SuckAnimalTalking/Pods-SuckAnimalTalking-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SuckAnimalTalking/Pods-SuckAnimalTalking-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SuckAnimalTalking/Pods-SuckAnimalTalking-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F54765042B4D4A8700A3AEC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F547654F2B4D5FC600A3AEC4 /* UISwitcherView.swift in Sources */,
+				F547655B2B4EB08300A3AEC4 /* UIBaseCollectionViewCell.swift in Sources */,
+				F54765622B4EB47E00A3AEC4 /* LocalizableHelper.swift in Sources */,
 				F547653E2B4D4C7D00A3AEC4 /* AppCoordinator.swift in Sources */,
+				F54765672B4EB5A700A3AEC4 /* UIGlobalButton.swift in Sources */,
+				F54765722B4EC5CA00A3AEC4 /* UIcollectionViewAndCellAndCellID.swift in Sources */,
+				F54765592B4EB05D00A3AEC4 /* UIBaseView.swift in Sources */,
 				F54765102B4D4A8700A3AEC4 /* ViewController.swift in Sources */,
 				F547654C2B4D514000A3AEC4 /* TestViewController.swift in Sources */,
+				F54765602B4EB19C00A3AEC4 /* UIViewAndGradient.swift in Sources */,
 				F547650C2B4D4A8700A3AEC4 /* AppDelegate.swift in Sources */,
 				F54765402B4D4CB700A3AEC4 /* CoordinatorDataSourceKey.swift in Sources */,
+				F547656B2B4EB7A400A3AEC4 /* DeviceSafeArea.swift in Sources */,
+				F54765652B4EB56C00A3AEC4 /* MyViewButton.swift in Sources */,
 				F54765482B4D503500A3AEC4 /* TestCoordinator.swift in Sources */,
+				F547656E2B4EB85C00A3AEC4 /* TestCollectionCell.swift in Sources */,
+				F54765512B4DC87600A3AEC4 /* TestModel.swift in Sources */,
 				F547654A2B4D50B400A3AEC4 /* TestViewModel.swift in Sources */,
+				F547655D2B4EB0AC00A3AEC4 /* UIBaseViewController.swift in Sources */,
+				F54765692B4EB77900A3AEC4 /* TestCollectionView.swift in Sources */,
+				F54765702B4EC54500A3AEC4 /* UIViewAndShadow.swift in Sources */,
 				F547650E2B4D4A8700A3AEC4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -425,7 +629,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -488,7 +692,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -509,6 +713,7 @@
 		};
 		F54765332B4D4A8900A3AEC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CBFC330AED1B7A1A838FCA03 /* Pods-SuckAnimalTalking.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -536,6 +741,7 @@
 		};
 		F54765342B4D4A8900A3AEC4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 093977B154FA8B0766219E20 /* Pods-SuckAnimalTalking.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

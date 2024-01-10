@@ -3,8 +3,11 @@
 <plist version="1.0">
 <array>
 	<string>Foundation</string>
-	<string>SuckAnimalTalking</string>
-	<string>UIKit</string>
 	<string>XCTest</string>
+	<string>SuckAnimalTalking</string>
+	<string>SnapKit</string>
+	<string>BetterSegmentedControl</string>
+	<string>UIKit</string>
+	<string>AppKit</string>
 </array>
 </plist>

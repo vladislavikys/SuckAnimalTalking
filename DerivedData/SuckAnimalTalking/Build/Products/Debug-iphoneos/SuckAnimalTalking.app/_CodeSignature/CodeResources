@@ -16,6 +16,30 @@
 		<data>
 		ZVgM1+KwZcZnwhgaI0F7Bt1ba2c=
 		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/BetterSegmentedControl</key>
+		<data>
+		imA7kWEQtvGs9dnhJhKT+9towA4=
+		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/Info.plist</key>
+		<data>
+		bTwR28ZfAuBVfqeLc/4P0hFILLE=
+		</data>
+		<key>Frameworks/BetterSegmentedControl.framework/_CodeSignature/CodeResources</key>
+		<data>
+		fDBWztF2F/yu/OgeE8yBpJ8YD2k=
+		</data>
+		<key>Frameworks/SnapKit.framework/Info.plist</key>
+		<data>
+		4h9/HVZXKN4eQlkYNmIU9Qimxj0=
+		</data>
+		<key>Frameworks/SnapKit.framework/SnapKit</key>
+		<data>
+		RRRYZ6oQK/5gAqRJe/ExpEnsz7o=
+		</data>
+		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
+		<data>
+		jfTK1wdtgkmpTxNAajC8cwwX4dI=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		kcsn0Wa5eUqXYchY1gnbotUD+UA=
@@ -50,6 +74,48 @@
 			<key>hash2</key>
 			<data>
 			VPNjf2cf66XxnoLsT0p/tEi7PPwPsYDwiapXH8jwU+I=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/BetterSegmentedControl</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YYuCi5Weo9WfBrVegjw6PZKrV2g+jMtsxjZotKZvxOo=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			67paqXsr9EIAR/2uPQCxXnHmS6t3xkobKmgfZDPCBw8=
+			</data>
+		</dict>
+		<key>Frameworks/BetterSegmentedControl.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IDLSCR9TvmQSBUSxU0/QBPf4XbAtYPeKTgBE1kwZPMY=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qL9zxNG0nlzNpbQViatavuLlrNLOx07cMLkcQwFD00o=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/SnapKit</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x5Re2CtZ8KG6YZtcuwMhtk2j+3FuOKcdQi9M+Skf4wo=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gZhs+olfyUzqB0P3dHa99aOqgDIsaMKeQ1CNiQuHg3M=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
